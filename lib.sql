@@ -97,7 +97,7 @@ CREATE TABLE `student_registration` (
 --
 
 INSERT INTO `student_registration` (`id`, `sid`, `type`, `gender`, `name`, `programme`, `year`, `emailid`, `password`) VALUES
-(1, '001', 'admin', 'm', 'esmond', 'lib admin', 'blank', 'esmond', 'admin123'),
+(1, '001', 'admin', 'm', 'admin', 'lib admin', 'blank', 'admin', 'admin123'),
 (2, '002', 'admin', 'm', 'christopher', 'lib admin', 'blank', 'chris', 'admin111'),
 (11, '1890dit', 'student', 'f', 'agnes ang', 'it', '2nd_year', 'agnes@gmail.com', '12345'),
 (12, '1235dit', 'student', 'f', 'salha', 'it', '2nd_year', 'salha@gmail.com', '123'),
