@@ -1,6 +1,6 @@
 # E-resource-hub
 
-A project as a web-application especially different webpages. Combinition of front-end programming languages such as HTML and CSS.
+A project as a web-application especially different webpages. Combinition of front-end programming languages such as HTML and CSS. Back-end is PHP.
 
 For the e-resource hub, only created for PC view not for tablet and phone view. The interface of the e-resource hub is simple and user friendly which will attract more students to access the hub as people nowadays prefer simple concept and if it is too complex, it will make students to lose focus of what is the main objective of the e-resource hub. 
 
