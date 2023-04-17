@@ -21,7 +21,7 @@ How to Run it:
 
 ## Login details:
 Admin
-  Username :- admin
-  Password :- admin123
+ -Username :- admin
+ -Password :- admin123
 
 User please register in the register page.
