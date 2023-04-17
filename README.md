@@ -6,7 +6,7 @@ For the e-resource hub, only created for PC view not for tablet and phone view. 
 ![image](https://user-images.githubusercontent.com/130723274/232374035-1cda8078-14ed-4438-9aae-96898dbb3793.png)
 
 
-# Use Case Diagram
+## Use Case Diagram
 ![image](https://user-images.githubusercontent.com/130723274/232374315-6a1dc04c-35de-4c17-95cf-2ae014b9ad94.png)
 
 How to Run it:
@@ -17,7 +17,7 @@ How to Run it:
 5. Import file: lib.sql in the Import section of the database created.
 6. Save and Browse the Aarogya Ambulance Booking Service Web Application.
 
-Login details:
+## Login details:
 Admin
 Username :- admin
 Password :- admin123
